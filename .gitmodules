@@ -1,3 +1,6 @@
 [submodule "PersistentIoT-PWA"]
 	path = PersistentIoT-PWA
 	url = https://github.com/taqtaq11/PersistentIoT-PWA
+[submodule "PersistentIoT-APIGateway"]
+	path = PersistentIoT-APIGateway
+	url = https://github.com/taqtaq11/PersistentIoT-APIGateway.git
